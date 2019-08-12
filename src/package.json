@@ -24,7 +24,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/tubeeckx/security-v2",
   "devDependencies": {
     "@types/axios": "0.14.0",
     "@types/enzyme": "3.9.4",
